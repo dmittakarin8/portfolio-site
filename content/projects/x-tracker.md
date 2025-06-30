@@ -8,9 +8,7 @@ tags: ["Go", "Bubble Tea", "SQLite", "API", "CLI", "Monitoring", "X"]
 <!-- Project content will go here -->
 
 ## What is X Tracker?
-![X Tracker Main](/images/projects/x-tracker-screenshot-main.png)
 
-![X Tracker Add](/images/projects/x-tracker-screenshot-add.png)
 
 **X Tracker** is a terminal-based tool that monitors follow/unfollow activity for selected X (Twitter) accounts in real time. It is lightweight and can run on a low-cost VPS.  The code is built for a specific RapidAPI plan and will need to be modified to accomodate a different set of API endpoints.  I also added discord/telegram notifications. 
 
@@ -29,3 +27,7 @@ I'm a blockchain enthusiast and X is the place for "alpha".  I wanted to monitor
 🛠️ Follow the README for setup instructions.
 
 
+
+![X Tracker Main](/images/projects/x-tracker-screenshot-main.png)
+
+![X Tracker Add](/images/projects/x-tracker-screenshot-add.png)
