@@ -2,7 +2,6 @@ baseURL = 'https://dmittakarin8.github.io/portfolio-site/'
 languageCode = 'en-us'
 title = 'Denis Mittakarin'
 theme = 'PaperMod'
-canonifyURLs = true
 
 [params]
   ShowBreadCrumbs = true
