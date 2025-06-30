@@ -24,5 +24,5 @@ I originally built this baseline back in January of 2025.  If I were to continue
 
 🛠️ Follow the README for setup instructions.
 
-![pf-scamscan Discord Alert](/images/projects/pf-scamscan-discordAlert.png)
+{{< figure src="/images/projects/pf-scamscan-discordAlert.png" alt="PF ScamScan Discord Alert" >}}
 
