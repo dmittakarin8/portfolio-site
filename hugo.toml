@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dmittakarin8.github.io/portfolio-site'
 languageCode = 'en-us'
 title = 'Denis Mittakarin'
 theme = 'PaperMod'
