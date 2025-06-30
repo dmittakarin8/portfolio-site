@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Denis G. Mittakarin on Denis Mittakarin</title>
+    <link>https://dmittakarin8.github.io/portfolio-site/</link>
+    <description>Recent content in Denis G. Mittakarin on Denis Mittakarin</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dmittakarin8.github.io/portfolio-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pf-scamscan</title>
+      <link>https://dmittakarin8.github.io/portfolio-site/projects/pf-scamscan/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmittakarin8.github.io/portfolio-site/projects/pf-scamscan/</guid>
+      <description>A CLI tool that detects new Pump.fun token launches and flags potential scams using real-time image analysis.</description>
+    </item>
+    <item>
+      <title>X Tracker</title>
+      <link>https://dmittakarin8.github.io/portfolio-site/projects/x-tracker/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dmittakarin8.github.io/portfolio-site/projects/x-tracker/</guid>
+      <description>A lightweight terminal app that monitors X (Twitter) follow activity in real time and sends alerts via Discord or Telegram.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://dmittakarin8.github.io/portfolio-site/resume/</link>
+      <pubDate>Wed, 29 Jan 2025 09:36:03 +0100</pubDate>
+      <guid>https://dmittakarin8.github.io/portfolio-site/resume/</guid>
+      <description>&lt;h1 id=&#34;denis-g-mittakarin&#34;&gt;Denis G. Mittakarin&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Senior Security Consultant&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/denis-mittakarin/&#34;&gt;LinkedIn&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/dmittakarin8?tab=repositories&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;mailto:dmittakarin8@gmail.com&#34;&gt;dmittakarin8@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Client facing senior security technical and functional consultant with 25+ years of experience working with both technical and non‑technical stakeholders to discover, sell, design, and implement security solutions that meet business needs. Highly skilled in managing security projects aligned with business requirements while demonstrating solution value. Deep experience in offensive security (application security, penetration testing), vulnerability detection (static code analysis, web application scanning), cloud infrastructure management (securing, deploying, managing), and software development (configuration management, vulnerability remediation, DevSecOps lifecycle).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
