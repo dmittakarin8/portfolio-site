@@ -26,5 +26,5 @@ I'm a blockchain enthusiast and X is the place for "alpha".  I wanted to monitor
 
 🛠️ Follow the README for setup instructions.
 
-{{< figure src="/images/projects/x-tracker-screenshot-main.png" alt="main" >}}
-{{< figure src="/images/projects/x-tracker-screenshot-add.png" alt="add" >}}
+{{< figure src="x-tracker-screenshot-main.png" alt="main" >}}
+{{< figure src="x-tracker-screenshot-add.png" alt="add" >}}
