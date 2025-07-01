@@ -17,8 +17,8 @@ I'm **Denis G. Mittakarin**, a Senior Security Consultant with 25+ years of over
 
 ## Quick Links
 
-- **[Projects](/projects/)** - See my latest work and open source contributions
-- **[Resume](/resume/)** - Detailed professional experience and certifications
+- **[Projects](projects/)** - See my latest work and open source contributions
+- **[Resume](resume/)** - Detailed professional experience and certifications
 
 ## Get In Touch
 
