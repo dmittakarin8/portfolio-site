@@ -14,6 +14,9 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
+      - name: Checkout submodules
+        run: git submodule update --init --recursive
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -21,7 +24,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --cleanDestinationDir
+        run: hugo --cleanDestinationDir --minify
 
       - name: Configure Git
         run: |
