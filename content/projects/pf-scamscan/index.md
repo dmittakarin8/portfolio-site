@@ -1,6 +1,6 @@
 ---
 title: "pf-scamscan"
-date: 2025-06-29
+date: 2025-07-02
 summary: "A CLI tool that detects new Pump.fun token launches and flags potential scams using real-time image analysis."
 tags: ["python", "Solana", "CLI", "WebSockets", "blockchain", "Monitoring", "Pump.fun"]
 ---
